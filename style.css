@@ -1,0 +1,41 @@
+main{
+	margin-left : 15pt;
+	margin-right : 15pt;
+	}
+header{
+	margin-left : 15pt;
+	margin-right : 15pt;
+	}
+h1{
+	align-items: center;
+	color: orange;
+	}
+h2{
+	align-items: center;
+	color: #FFFACD;
+	}
+li{
+	list-style-type: circle;
+	font-size:18px;
+	color: white;
+	}
+h1 + p{
+	font-size:150%;
+	font-style: normal;
+	}
+p{
+	font-size:18px;
+	color: white;
+	}
+a{
+	color: orange;
+	}
+body{
+	background-color: black;
+	}
+img{
+	max-width: 100%;
+	width: 300px;
+	object-fit: cover;
+	object-position: bottom;
+	}
